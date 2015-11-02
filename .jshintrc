@@ -1,0 +1,22 @@
+{
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "freeze": true,
+    "funcscope": true,
+    "futurehostile": true,
+    "latedef": true,
+    "maxdepth": 4,
+    "maxparams": 6,
+    "noarg": true,
+    "nocomma": true,
+    "nonbsp": true,
+    "nonew": true,
+    "strict": true,
+    "undef": true,
+    "unused": true,
+    "varstmt": true,
+    "esnext": true,
+    "browser": true,
+    "module": true
+}

@@ -1,0 +1,26 @@
+{
+  "name": "breakout-clone",
+  "version": "0.1.0",
+  "description": "Breakout clone",
+  "author": "Kevin Koshiol <ntarelix@gmail.com>",
+  "scripts": {
+    "dev-server": "./node_modules/.bin/gulp",
+    "build": "./node_modules/.bin/gulp build"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
+    "del": "^2.0.2",
+    "eslint": "^1.7.2",
+    "eslint-loader": "^1.1.0",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "jshint": "^2.8.0",
+    "jshint-loader": "^0.8.3",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+      "phaser": "git://github.com/photonstorm/phaser.git#v2.4.3"
+  }
+}
